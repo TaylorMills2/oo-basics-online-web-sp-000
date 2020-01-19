@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class Shoe
   def initialize(brand)
     @brand = brand
