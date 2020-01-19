@@ -33,4 +33,4 @@ class Shoe
   end
   
 end
->>>>>>> b3f47fcd0648fcd73eeed5cf7e67f7cc0bdb055e
+
